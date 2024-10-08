@@ -24,6 +24,8 @@ Console.WriteLine(pas2);
 //int n3 = Convert.ToInt32(Console.ReadLine());
 
 //ამოცანა 4
+double d4 = Convert.ToDouble(Console.ReadLine());
+
 
 //ბონუსი
-bool a4 = Convert.ToBoolean(Console.ReadLine()), b4 = Convert.ToBoolean(Console.ReadLine());
+//bool a4 = Convert.ToBoolean(Console.ReadLine()), b4 = Convert.ToBoolean(Console.ReadLine());
