@@ -4,7 +4,7 @@ int a11 = Convert.ToInt32(Console.ReadLine()), b11 = Convert.ToInt32(Console.Rea
 c11 = a11;
 a11 = b11;
 b11 = c11;
-Console.WriteLine($"{a11} " + $"{b11}");
+Console.WriteLine($"{a11} {b11}");
 
 
 //ამოცანა 1.2
